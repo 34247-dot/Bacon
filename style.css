@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+#board {
+    background-color: lightsteelblue;
+    border-bottom: 20px solid rgb(8, 129, 34);
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    background-color: lightcoral;
+    color: rgb(108, 7, 7);
+    border: none;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: rgb(103, 220, 97);
+    color: rgb(22, 132, 56);
+}
